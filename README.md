@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mnmalikdev
-- 👀 I’m interested in MERNSTACK.
-- 🌱 I have been working with MERN stack since the last 1.5 year.
+- Currently, I am working as a Product Development Intern @ https://www.linkedin.com/company/tech-blink/
+- 👀 I’m a MERNSTACK developer with expertise in JavaScript + TypeScript.
+- 🌱 I have been working with MERN stack since the last 2 years.
 - 📫 How to reach me : email me at mnmalikdev@gmail.com for any remote job opportunities.
 - Looking for remote opportunities.
 
