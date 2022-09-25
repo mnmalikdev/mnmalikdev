@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mnmalikdev
-- Currently, I am working as a Product Development Intern @ https://www.linkedin.com/company/tech-blink/
-- 👀 I’m a MERNSTACK developer with expertise in JavaScript + TypeScript.
-- 🌱 I have been working with MERN stack since the last 2 years.
+- Currently, I am working as a Junior MERN-Stack Developer @ Code-Huddle
+- 👀 My skillset includes but not limited to TS+JS, React.js,React-Native, MONGODB, NODE.JS , NEST.JS , NEXT.JS, Firebase.
+- 🌱 I have been working with MERN stack since the last 3 years.
 - 📫 How to reach me : email me at mnmalikdev@gmail.com for any remote job opportunities.
 - Looking for remote opportunities.
 
